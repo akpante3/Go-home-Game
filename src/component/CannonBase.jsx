@@ -1,6 +1,7 @@
 import React from 'react';
 import { pathFromBezierCurve } from '../utils/formulas';
 
+
 const CannonBase = (props) => {
   const cannonBaseStyle = {
     fill: '#a16012',
