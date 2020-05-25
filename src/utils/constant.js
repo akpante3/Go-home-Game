@@ -7,6 +7,10 @@ export const maxFlyingObjects = 4;
 
 export const flyingObjectsStarterYAxis = -1000;
 
+export const gameHeight = 1200;
+
+// export const flyingObjectsStarterYAxis = -1100;
+
 export const flyingObjectsStarterPositions = [
   -300,
   -150,
